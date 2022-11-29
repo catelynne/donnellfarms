@@ -24,6 +24,29 @@ marquee{
 }
 
 .btn-primary{
-    background-color:aliceblue
+    background-color:rgb(185, 49, 0)
     
+}
+
+.caladd{
+    font-size: 40px;
+}
+
+
+.container-f{
+    padding: 0px 0px 20px;
+    height:160px;
+    background-color:rgba(197, 209, 212, 0.836);
+}
+
+.container-fl{
+    padding: 0px 0px 20px;
+    height:160px;
+    
+}
+
+.container-flu{
+    padding: 0px 0px 20px;
+    height:160px;
+    background-color:rgba(197, 209, 212, 0.836);
 }
