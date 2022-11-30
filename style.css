@@ -1,7 +1,12 @@
-.navbar {
+ .navbar {
 background-color: rgb(255, 255, 255);
 }
-
+.marquee{
+    background-color: darkred;
+    font-size: 16px;
+    padding:10px;
+    color: white;
+}
 .footer {
     background-color: darkred;
 }
@@ -48,5 +53,5 @@ marquee{
 .container-flu{
     padding: 0px 0px 20px;
     height:160px;
-    background-color:rgba(197, 209, 212, 0.836);
+    background-color:rgba(245, 245, 245, 0.815);
 }
